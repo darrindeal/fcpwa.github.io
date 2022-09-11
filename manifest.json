@@ -3,12 +3,12 @@
     "name": "FaithCircle POC",
     "icons": [
         {
-            "src": "https://darrindeal.github.io/fcpwa.github.io/images/icon.png",
+            "src": "images/icon.png",
             "type": "image/png",
             "sizes": "144x144"
         }
     ],
-    "start_url": "https://darrindeal.github.io/fcpwa.github.io/",
+    "start_url": "index.html",
     "background_color": "#ffffff",
     "display": "standalone",
     "theme_color": "#000000"
