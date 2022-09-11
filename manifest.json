@@ -3,7 +3,7 @@
     "name": "FaithCircle POC",
     "icons": [
         {
-            "src": "/images/icon.png",
+            "src": "images/icon.png",
             "type": "image/png",
             "sizes": "144x144"
         }
